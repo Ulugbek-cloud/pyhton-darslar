@@ -1,2 +1,2 @@
 # pyhton-darslar
-Mening birinchi o'rgangan darslarim
+Ushubu faylda Mening birinchi o'rgangan darslarim
